@@ -56,8 +56,6 @@ The model was evaluated using **MAE (Mean Absolute Error)** and **SMAPE** to mea
 ### Feature Importance
 The analysis confirmed that **Lag 1** and **Lag 7** are the strongest predictors of future demand, validating the importance of recent sales history.
 
-![Feature Importance](path/to/your/feature_importance_plot.png)
-*(Note: Replace this path with your actual image if you upload one)*
 
 ---
 
@@ -70,7 +68,7 @@ The analysis confirmed that **Lag 1** and **Lag 7** are the strongest predictors
 ### Setup
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/demand-forecasting.git](https://github.com/yourusername/demand-forecasting.git)
+    git clone https://github.com/KHPDULASHA/Predictive-Demand-Forecasting-with-External-Signals.git
     cd demand-forecasting
     ```
 
@@ -80,7 +78,7 @@ The analysis confirmed that **Lag 1** and **Lag 7** are the strongest predictors
     ```
 
 3.  **Run the Notebook**
-    Open `Demand_Forecasting_Engine.ipynb` in Jupyter or VS Code to reproduce the analysis.
+    Open `DFPR.ipynb` in Jupyter or VS Code to reproduce the analysis.
 
 ---
 
@@ -92,8 +90,8 @@ The analysis confirmed that **Lag 1** and **Lag 7** are the strongest predictors
 ---
 
 ## 👤 Author
-**[Your Name]**
-* [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-* [Portfolio Website](https://yourportfolio.com)
+**Pramudi Dulasha**
+* https://www.linkedin.com/in/pramudi-dulasha-53b942294/
+
 
 _Data Source provided by Kaggle. This project is for educational and portfolio purposes._
